@@ -9,7 +9,8 @@ dofile("../addons/utility.lua"); --do not remove this one as it's a dependency f
 --[[ADDONS]]
 dofile
 
-("../addons/underbarbuff/underbarbuff.lua");
+("../addons/zoomy/zoomy.lua");
+dofile("../addons/underbarbuff/underbarbuff.lua");
 dofile("../addons/betterquest/betterquest.lua");
 dofile("../addons/channelsurfer/channelsurfer.lua");
 dofile("../addons/contextmenuadditions/contextmenuadditions.lua");
